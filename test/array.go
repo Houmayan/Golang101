@@ -18,7 +18,7 @@ func SlicePractice(){
 
 	sl:= make([]int,4,6)
 	
-	fmt.Println(".................\n")
+	// fmt.Println(".................\n")
 	fmt.Println("Printing Empty Slice",sl)
 	fmt.Println("Printing SLice Capacity and Length",len(sl),cap(sl))
 
